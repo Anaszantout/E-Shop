@@ -53,4 +53,4 @@ jobs:
           app-name: 'shades4you-AnasZ'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_140F7C3EA71A4FD7BD7A42B5D5F4F8DB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C17CD961CF82459C90A4231A3369750B }}
